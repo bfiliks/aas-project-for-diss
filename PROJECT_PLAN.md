@@ -2,10 +2,8 @@
 
 **Felix Oke** · PhD candidate, UIUC · felixo2@illinois.edu
 Collaboration: **American Antiquarian Society (AAS)**, Worcester, MA
-Introduced by advisor **Ryan** to **John [J. Garcia?], Director of Scholarly Programs, AAS**
+Introduced by advisor **Ryan** to **John J. Garcia, Director of Scholarly Programs, AAS** (jgarcia@mwa.org, 508-471-2134)
 Topic: archival material in AAS collections on **early African American printing and publishing**
-
-> Confirm: the AAS "Director of Scholarly Programs" contact (jgarcia@mwa.org, 508-471-2134) matches this thread's "John." Verify at the meeting rather than assuming.
 
 ---
 
@@ -40,7 +38,6 @@ Source guide: AAS "Finding Materials for African American Studies" (americananti
 - [ ] Browse "Just Teach One: Early African American Print" texts for anything directly relevant.
 - [ ] Draft a 1-paragraph statement of Felix's current dissertation interests, specific enough that John can map it to AAS holdings.
 - [ ] Ask Ryan what specifically he and John discussed in Charlottesville ("the projects you're seeking help on") — the notes reference this but don't specify it.
-- [ ] Confirm whether "John" is John J. Garcia (Director of Scholarly Programs) or another AAS staff member.
 - [ ] Check whether the Scholars' Workshop is running its next cycle and what the actual 2026 deadline is (ask John directly — fastest way to get an accurate date).
 
 ## 3. Questions to bring to the call
