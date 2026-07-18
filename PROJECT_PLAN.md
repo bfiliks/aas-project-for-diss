@@ -2,7 +2,7 @@
 
 **Felix Oke** · PhD candidate, UIUC · felixo2@illinois.edu
 Collaboration: **American Antiquarian Society (AAS)**, Worcester, MA
-Introduced by advisor **Ryan** to **John J. Garcia, Director of Scholarly Programs, AAS** (jgarcia@mwa.org, 508-471-2134)
+Introduced by advisor **Ryan Cordell** (School of Information Sciences, UIUC) to **John J. Garcia, Director of Scholarly Programs, AAS** (jgarcia@mwa.org, 508-471-2134)
 Topic: archival material in AAS collections on **early African American printing and publishing**
 
 ---
@@ -63,6 +63,8 @@ Felix's prior repos already build the computational groundwork this collaboratio
 | [`tcr-acs`](https://github.com/bfiliks/tcr-acs) | ACS colonization and African emigration discourse in *The Christian Recorder*, 1861–1902 | Check AAS periodical/pamphlet holdings for parallel emigration-debate material |
 
 **Talking point for the August call with John:** Felix isn't starting from zero — the existing computational pipelines (genre classification, biblical-quotation detection, authorship attribution, serial-fiction tracking) were built on *The Christian Recorder* and could plausibly extend to AAS's periodical/pamphlet/self-publishing holdings. Worth asking John directly whether AAS has machine-readable/OCR'd text for candidate collections, since that determines whether these pipelines are portable as-is.
+
+**Advisor alignment:** Ryan Cordell (Associate Professor, School of Information Sciences and Dept. of English, UIUC) leads the NEH/ACLS-funded **Viral Texts** project, which mines large-scale 19th-century periodical archives for borrowed/reprinted text to trace circulation and influence among antebellum writers and editors. This is a direct methodological precedent for `black-press-serials` (serialized fiction tracking) and `black-press-attribution` (pseudonymous authorship) — worth explicitly framing the AAS collaboration as an extension of Viral Texts-style text-reuse methods into the Black press / early Black self-publishing corpus specifically.
 
 ## 5. Draft phased plan (to revise after the August call)
 
