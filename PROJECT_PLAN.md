@@ -51,7 +51,23 @@ Source guide: AAS "Finding Materials for African American Studies" (americananti
 4. What's the realistic timeline for archive access — remote finding aids first, or does this require an in-person visit to Worcester?
 5. Are there restrictions/embargoes on any of the relevant collections?
 
-## 4. Draft phased plan (to revise after the August call)
+## 4. Existing related work (this GitHub account)
+
+Felix's prior repos already build the computational groundwork this collaboration could extend to AAS-held material:
+
+| Repo | Focus | Possible AAS extension |
+|---|---|---|
+| [`tcr-genre`](https://github.com/bfiliks/tcr-genre) | Genre classification of *The Christian Recorder*, 1861–1870 (Claude Haiku 4.5) | Apply the same classification pipeline to AAS-held Black periodicals beyond the Recorder |
+| [`black-press-bible`](https://github.com/bfiliks/black-press-bible) | Biblical quotation detection in *The Christian Recorder*, 1861–1870 (extended Mullen pipeline, AME paraphrase dictionary) | Test against other AAS periodical holdings for cross-title comparison |
+| [`black-press-attribution`](https://github.com/bfiliks/black-press-attribution) | Resolving pseudonymous/anonymous authorship in 19th-c. Black press, 1827–1902 | Directly relevant to Black Self-Publishing project entries with uncertain/attributed authorship |
+| [`black-press-serials`](https://github.com/bfiliks/black-press-serials) | Serialized fiction across the 19th-c. Black press network, 1837–1902 | Cross-reference against AAS's Just Teach One texts and periodical holdings |
+| [`tcr-harper`](https://github.com/bfiliks/tcr-harper) | Frances E.W. Harper in *The Christian Recorder*, 1854–1902 | Check for Harper material or related figures in AAS collections |
+| [`tcr-soldiers`](https://github.com/bfiliks/tcr-soldiers) | USCT soldier letters and Civil War-era correspondence in *The Christian Recorder* | Possible parallel in AAS manuscript/correspondence holdings |
+| [`tcr-acs`](https://github.com/bfiliks/tcr-acs) | ACS colonization and African emigration discourse in *The Christian Recorder*, 1861–1902 | Check AAS periodical/pamphlet holdings for parallel emigration-debate material |
+
+**Talking point for the August call with John:** Felix isn't starting from zero — the existing computational pipelines (genre classification, biblical-quotation detection, authorship attribution, serial-fiction tracking) were built on *The Christian Recorder* and could plausibly extend to AAS's periodical/pamphlet/self-publishing holdings. Worth asking John directly whether AAS has machine-readable/OCR'd text for candidate collections, since that determines whether these pipelines are portable as-is.
+
+## 5. Draft phased plan (to revise after the August call)
 
 | Phase | Target window | Activity |
 |---|---|---|
