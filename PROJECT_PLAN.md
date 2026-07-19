@@ -17,19 +17,38 @@ Director of Scholarly Programs, AAS: **John J. Garcia** (jgarcia@mwa.org, 508-47
 
 ---
 
-## 1. Relevant AAS programs and collections (verified July 2026)
+## 1. Confirmed AAS collections and programs (verified July 2026)
+
+Two categories matter here, and they're easy to conflate: material **AAS itself physically/digitally holds**, versus **subscription databases AAS provides on-site access to** but that are sourced largely from other institutions. Both are useful for the dissertation, but only the first is "the AAS collection" in the sense John would mean it.
+
+### 1a. AAS's own holdings and programs
 
 | Item | Detail |
 |---|---|
-| **Scholars' Workshop in Early African American Print** | 4-day in-person workshop at AAS, most recently held Jan 12–15, 2026. Led by Tara Bynum (Univ. of Iowa) with AAS staff. Open to 8 participants, "emerging scholars at the dissertation stage and beyond," pre-1900 African American studies. Free housing + $1,000 honorarium. **Last cycle's deadline was Oct 15, 2025** — a Jan 2027 cycle, if it recurs, would plausibly have an **~Oct 2026 deadline, i.e. within ~3 months**. Confirm timing with John directly. |
-| **Black Self-Publishing project** | Ongoing, crowdsourced AAS research initiative cataloguing books self-published by people of African descent in North America, born before 1851 or first published before 1877. Public portal: collections.americanantiquarian.org/blackpublishing. Explicitly invites outside scholarly contributions. |
+| **General print-culture holdings** | Per AAS's own program description: political newspapers, children's books, racist broadsides, anti-slavery almanacs, city directories, emigrationist tracts, and textbooks for freedmen's schools — spanning African Americans' roles "as authors, editors, printers, readers, teachers, and librarians." Includes Phillis Wheatley material tracked across manuscript, broadside, and book formats. |
+| **Black Self-Publishing project** | Ongoing, crowdsourced AAS research initiative cataloguing books self-published by people of African descent in North America, born before 1851 or first published before 1877. Portal: collections.americanantiquarian.org/blackpublishing. Explicitly invites outside scholarly contributions. |
 | **Just Teach One: Early African American Print** | AAS digital collection of rare early Black-authored texts prepared for classroom use. |
-| **AAS General Catalog genre terms** | Catalog uses specific searchable terms: "Works by Black authors," "Works by Black people in the printing and publishing trades," "Works by Black illustrators/photographers/composers," "Works by Black newspaper/periodical editors" — each appended with individual names. |
-| **Brown Family Collections + Fellowship** | Digital collection and a dedicated AAS fellowship supporting research in African American materials. |
-| **Subscription databases (on-site access)** | African American Newspapers (Series 1 & 2), Black Authors 1556–1922, Slavery and Anti-Slavery: A Transnational Archive (Readex/Gale). |
-| **Affiliated external projects** | Black Bibliography Project, Colored Conventions Project, Freedom on the Move — not AAS-run but cross-referenced from AAS's African American studies resource guide. |
+| **Photographs of Tuskegee Institute** | AAS digital collection. |
+| **Brown Family Collections + Fellowship** | Digital collection plus a dedicated AAS fellowship supporting research in African American materials. |
+| **Scholars' Workshop in Early African American Print** | 4-day in-person workshop at AAS, most recently held Jan 12–15, 2026. Led by Tara Bynum (Univ. of Iowa) with AAS staff. 8 participants, "emerging scholars at the dissertation stage and beyond," pre-1900 African American studies. Free housing + $1,000 honorarium. **Last cycle's deadline was Oct 15, 2025** — a Jan 2027 cycle, if it recurs, would plausibly land **~Oct 2026, within ~3 months**. Confirm timing with John directly. |
+| **AAS General Catalog genre terms** | Catalog uses specific searchable terms to surface material by Black book-trade figures: "Works by Black authors," "Works by Black people in the printing and publishing trades," "Works by Black illustrators/photographers/composers," "Works by Black newspaper/periodical editors" — each appended with individual names (e.g. "Works by Black authors--Douglass"). |
 
-Source guide: AAS "Finding Materials for African American Studies" (americanantiquarian.org/african-american-resources).
+### 1b. Subscription databases (on-site access via AAS, content largely sourced elsewhere)
+
+| Database | Date range | Scope | Note on provenance |
+|---|---|---|---|
+| **African American Newspapers, Series 1 & 2** (Readex) | 1827–1998 | 280 titles (Series 1, 35 states) + 75+ titles (Series 2, 22 states + DC). Opens with *Freedom's Journal* (NY), the first African American newspaper in the US. | Series 1 sourced from Wisconsin Historical Society, Kansas Historical Society, Library of Congress. Series 2 sourced from **AAS**, Center for Research Libraries, Library of Congress, NYPL — so AAS is a genuine contributing repository here, not just an access point. |
+| **Afro-Americana Imprints, 1535–1922** (Readex) | 1535–1922 | Works published by or about Black Americans; digitized from Dorothy Porter Wesley's foundational bibliography *Afro-Americana 1553–1906* (1973, 2nd ed. 2008). | Sourced **from the Library Company of Philadelphia**, not AAS's own physical collection — AAS licenses access, doesn't hold these originals. |
+| **African History and Culture, 1540–1921** (Readex) | 1540–1921 | Africa and its diaspora, comparative/contextual material. | Aggregated database, not AAS-specific. |
+| **Black Authors, 1556–1922** / **Slavery and Anti-Slavery: A Transnational Archive** (Gale) | varies | Broader African diaspora primary sources. | Aggregated database, not AAS-specific. |
+
+### 1c. Affiliated external projects (referenced by AAS, not AAS-run)
+
+Black Bibliography Project, Colored Conventions Project, Freedom on the Move.
+
+Sources: [Finding Materials for African American Studies](https://www.americanantiquarian.org/african-american-resources), [African American Cultures of Print](https://www.americanantiquarian.org/african-american-cultures-of-print), [Afro-Americana Imprints, 1535-1922](https://www.americanantiquarian.org/afro-americana-imprints-1535-1922), [African American Newspapers, Series 1](https://www.americanantiquarian.org/african-american-newspapers-series-1), [African History and Culture, 1540-1921](https://www.americanantiquarian.org/african-history-and-culture-1540-1921), [Black Self-Publishing](https://www.americanantiquarian.org/black-self-publishing)
+
+**Implication for the August call:** ask John specifically what of *this* is physically at AAS vs. licensed-in — that determines what requires an on-site Worcester visit versus what Felix can already query remotely through UIUC library access to Readex/Gale.
 
 ---
 
