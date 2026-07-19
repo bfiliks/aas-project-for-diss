@@ -2,8 +2,9 @@
 
 **Felix Oke** · PhD candidate, UIUC · felixo2@illinois.edu
 Collaboration: **American Antiquarian Society (AAS)**, Worcester, MA
-Introduced by advisor **Ryan Cordell** (School of Information Sciences, UIUC) to **John J. Garcia, Director of Scholarly Programs, AAS** (jgarcia@mwa.org, 508-471-2134)
 Topic: archival material in AAS collections on **early African American printing and publishing**
+Advisor: **Prof. Ryan Cordell** (School of Information Sciences & English, UIUC)
+Director of Scholarly Programs, AAS: **John J. Garcia** (jgarcia@mwa.org, 508-471-2134)
 
 ---
 
