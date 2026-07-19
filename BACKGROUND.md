@@ -37,7 +37,7 @@ Sources: [The Christian Recorder - Wikipedia](https://en.wikipedia.org/wiki/The_
 
 ## 6. Key scholars
 
-Frances Smith Foster, Elizabeth McHenry (*Forgotten Readers*), Eric Gardner (*Unexpected Places*; work specifically on the Christian Recorder), Benjamin Fagan (*The Black Newspaper and the Chosen Nation*), Derrick Spires (*The Practice of Citizenship*), Jacqueline Bacon (on *Freedom's Journal*), P. Gabrielle Foreman (Colored Conventions Project), and Dorothy Porter Wesley — whose bibliographic work underlies the Readex Afro-Americana database referenced in `PROJECT_PLAN.md` §1b.
+Frances Smith Foster, Elizabeth McHenry (*Forgotten Readers*), Eric Gardner (*Unexpected Places*; work specifically on the Christian Recorder), Benjamin Fagan (*The Black Newspaper and the Chosen Nation*), Derrick Spires (*The Practice of Citizenship*), Jacqueline Bacon (on *Freedom's Journal*), P. Gabrielle Foreman (Colored Conventions Project), John Ernest (*Liberation Historiography: African American Writers and the Challenge of History, 1794–1861*, 2004; *Chaotic Justice: Rethinking African American Literary History*, 2009; *A Nation Within a Nation: Organizing African American Communities before the Civil War*, 2011 — reads writers like David Walker, Delany, Douglass, and Jacobs as producing counterhistory as a mode of liberation, not just documentation), and Dorothy Porter Wesley — whose bibliographic work underlies the Readex Afro-Americana database referenced in `PROJECT_PLAN.md` §1b.
 
 ## See also
 
