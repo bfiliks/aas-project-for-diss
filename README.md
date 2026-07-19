@@ -36,5 +36,6 @@ This collaboration builds on prior computational work on the nineteenth-century 
 | [`tcr-harper`](https://github.com/bfiliks/tcr-harper) | Frances E.W. Harper in *The Christian Recorder*, 1854–1902 |
 | [`tcr-soldiers`](https://github.com/bfiliks/tcr-soldiers) | USCT soldier letters and Civil War-era correspondence, *The Christian Recorder* |
 | [`tcr-acs`](https://github.com/bfiliks/tcr-acs) | ACS colonization and African emigration discourse, *The Christian Recorder*, 1861–1902 |
+| [`black-press-knowledge-graph`](https://github.com/bfiliks/black-press-knowledge-graph) | The Early Black Press Knowledge Graph (EBP-KG): Linked Data infrastructure proposal for the early African American press, 1827–1874. Private, pre-submission for blind review. |
 
 See [`PROJECT_PLAN.md`](PROJECT_PLAN.md) §4 for how each connects to potential AAS-held material.
