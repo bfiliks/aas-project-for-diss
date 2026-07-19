@@ -1,0 +1,44 @@
+# Background: Early African American Printing and Publishing
+
+Overview compiled 2026-07-19 to ground the AAS collaboration and dissertation planning. Sources are linked inline; treat this as a working orientation document, not a substitute for the historiography itself.
+
+## 1. Before the Black press (18th c. – 1826)
+
+Print by Black writers in British North America predates any Black-run press by decades, but it depended entirely on white-controlled printing infrastructure. **Phillis Wheatley**'s *Poems on Various Subjects, Religious and Moral* (1773) had to be published in London — no Boston printer would take it, and the book carries a prefatory attestation signed by eighteen prominent white Bostonians (including John Hancock) certifying that a woman enslaved by the Wheatley family had actually written it. **Jupiter Hammon**'s broadside *An Evening Thought* (1760) is generally treated as the first published work by a Black writer in America. Through this period, Black authorship existed only via white patronage, printers, and authenticating apparatus — there was no Black-owned press.
+
+## 2. The Black press begins (1827)
+
+**Freedom's Journal**, founded March 16, 1827 in New York by **Samuel Cornish** and **John Russwurm**, was the first Black-owned and Black-edited newspaper in the US. Its founding editorial — "We wish to plead our own cause. Too long have others spoken for us" — was a direct response to being misrepresented in the white press (particularly Mordecai Noah's *New York Enquirer*). Cornish and Russwurm split in 1827 over colonization (Cornish opposed it, Russwurm came to support it); the paper folded in 1829. This rupture is itself historiographically significant — it's the first instance of an intra-Black editorial/political fight playing out in print.
+
+Source: [Freedom's Journal (1827-1829) | BlackPast.org](https://blackpast.org/african-american-history/freedom-s-journal-1827-1829/), [Freedom's Journal - Wikipedia](https://en.wikipedia.org/wiki/Freedom's_Journal)
+
+## 3. Militant print and the crackdown (1829)
+
+**David Walker**'s *Appeal to the Coloured Citizens of the World* (Boston, Sept. 28, 1829) is the sharpest early instance of Black print as insurgent political weapon. Walker used sympathetic Black and white sailors, and reportedly sewed copies into the lining of jackets, to smuggle it into Southern ports. Its circulation (alongside Nat Turner's 1831 rebellion) directly triggered Southern anti-literacy laws criminalizing teaching enslaved people to read — meaning Black print's growth in the North was matched by escalating suppression of Black literacy in the South. This is a structural fact worth keeping central to any framing: the Black press's Northern expansion and the South's literacy crackdown are the same historical process viewed from two sides.
+
+Source: [Walker's Appeal | NCpedia](https://www.ncpedia.org/walkers-appeal), [Zinn Education Project](https://www.zinnedproject.org/news/tdih/appeal-citizens/)
+
+## 4. Antebellum expansion and institution-building (1830s–1850s)
+
+- **The Colored American** (1837–1841), NY, edited by Cornish and Philip Bell.
+- **The North Star** (1847), founded by **Frederick Douglass** in Rochester, NY — later *Frederick Douglass' Paper*, then *Douglass' Monthly*.
+- **Provincial Freeman** (1853, Canada West), edited by **Mary Ann Shadd Cary** — first Black woman newspaper editor in North America.
+- **The Christian Recorder**: began as *The Christian Herald* (Pittsburgh, 1848, Rev. Augustus R. Green); renamed *The Christian Recorder* in 1852 under the AME Church Book Concern (Philadelphia), first issue July 1, 1852, first editor Rev. M. M. Clark. Oldest continuously published African American newspaper. This is the paper the `tcr-*` and `black-press-bible` repos are built on — denominational infrastructure (the AME Book Concern) is what gave it durability other Black papers lacked.
+- **Anglo-African Magazine** and **Weekly Anglo-African** (1859), founded by brothers **Thomas and Robert Hamilton**, NY. First publications to run **Martin Delany**'s serialized novel *Blake; or the Huts of America* — directly relevant to the `black-press-serials` work on serialized fiction. Contributors included Delany, Mary Ann Shadd Cary, Edward Wilmot Blyden, Sarah Mapps Douglass.
+
+Sources: [The Christian Recorder - Wikipedia](https://en.wikipedia.org/wiki/The_Christian_Recorder), [The Anglo-African - Wikipedia](https://en.wikipedia.org/wiki/The_Anglo-African)
+
+## 5. Structural realities worth foregrounding
+
+- **Self-publishing and subscription models**: Black authors routinely couldn't get mainstream/commercial publishers, so relied on subscription publishing, denominational presses, or abolitionist sponsorship (e.g., Garrison prefacing Douglass's 1845 *Narrative*). This is exactly the corpus AAS's **Black Self-Publishing** project (born-before-1851/first-published-before-1877 cutoff — see `PROJECT_PLAN.md` §1a) is trying to document — it's not a side interest but the material basis of the field.
+- **Exclusion from the printing trade itself**: Black printers/compositors were rare because apprenticeship into the trade was largely closed to Black workers, North and South. Ownership of a press was a separate, harder threshold than authorship.
+- **Genre as political infrastructure**: the **Colored Conventions** movement (1830s–1890s) generated its own print genre — published convention proceedings — a form of collective/organizational authorship distinct from individual authorship, and the basis of the (AAS-linked) Colored Conventions Project (see `PROJECT_PLAN.md` §1c).
+- **Reprinting/exchange networks**: Black newspapers reprinted each other and reprinted (or answered) mainstream press content extensively — this is where Ryan Cordell's Viral Texts methodology maps directly onto the Black press, and where the `black-press-attribution` and `black-press-serials` pipelines already have a foothold.
+
+## 6. Key scholars
+
+Frances Smith Foster, Elizabeth McHenry (*Forgotten Readers*), Eric Gardner (*Unexpected Places*; work specifically on the Christian Recorder), Benjamin Fagan (*The Black Newspaper and the Chosen Nation*), Derrick Spires (*The Practice of Citizenship*), Jacqueline Bacon (on *Freedom's Journal*), P. Gabrielle Foreman (Colored Conventions Project), and Dorothy Porter Wesley — whose bibliographic work underlies the Readex Afro-Americana database referenced in `PROJECT_PLAN.md` §1b.
+
+## See also
+
+- [`PROJECT_PLAN.md`](./PROJECT_PLAN.md) — AAS collaboration plan, confirmed collections, timeline
