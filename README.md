@@ -15,6 +15,7 @@ This is a planning repo, not a code repo — it tracks the collaboration's scope
 | [`PROJECT_PLAN.md`](PROJECT_PLAN.md) | Working plan: where things stand, confirmed AAS collections and programs, pre-meeting prep, questions for John, draft phased timeline, cross-references to prior repos |
 | [`BACKGROUND.md`](BACKGROUND.md) | Orientation overview of early African American printing and publishing — key publications, figures, structural history, and scholarship |
 | [`READING_NOTES.md`](READING_NOTES.md) | Annotated notes on specific papers read ahead of meetings — currently Garcia's "Critique! Critique! Critique!" and Cordell's "Speculative Bibliography" |
+| [`POSITIONING_NOTE.md`](POSITIONING_NOTE.md) | Short standalone framing note: where the dissertation's contribution sits between Cordell's computational manifesto and Garcia's critical one — meant to bring into the August meeting |
 
 ---
 
