@@ -70,7 +70,9 @@ Sources: [Finding Materials for African American Studies](https://www.americanan
 
 ## 4. Existing related work (this GitHub account)
 
-Felix's prior repos already build the computational groundwork this collaboration could extend to AAS-held material:
+**Caveat added 2026-07-19:** the "Possible AAS extension" column below is Felix's own speculative mapping of how his existing work *could* connect to the AAS collaboration — none of it is confirmed. In particular, `black-press-knowledge-graph` (EBP-KG) and the AAS collaboration are, as of now, two separate projects that happen to share a subject (early African American press) and a researcher. Nothing establishes that AAS's project will involve Linked Data, knowledge-graph methods, or any of EBP-KG's infrastructure at all — that depends entirely on what John scopes at the August meeting, and it may turn out to be purely archival/close-reading work with no computational component. Don't treat the row below as a planned integration.
+
+Felix's prior repos already build the computational groundwork this collaboration *might* extend to AAS-held material:
 
 | Repo | Focus | Possible AAS extension |
 |---|---|---|
@@ -81,7 +83,7 @@ Felix's prior repos already build the computational groundwork this collaboratio
 | [`tcr-harper`](https://github.com/bfiliks/tcr-harper) | Frances E.W. Harper in *The Christian Recorder*, 1854–1902 | Check for Harper material or related figures in AAS collections |
 | [`tcr-soldiers`](https://github.com/bfiliks/tcr-soldiers) | USCT soldier letters and Civil War-era correspondence in *The Christian Recorder* | Possible parallel in AAS manuscript/correspondence holdings |
 | [`tcr-acs`](https://github.com/bfiliks/tcr-acs) | ACS colonization and African emigration discourse in *The Christian Recorder*, 1861–1902 | Check AAS periodical/pamphlet holdings for parallel emigration-debate material |
-| [`black-press-knowledge-graph`](https://github.com/bfiliks/black-press-knowledge-graph) | The Early Black Press Knowledge Graph (EBP-KG): Linked Data infrastructure proposal, nine-mode metadata failure taxonomy, MARC/crosswalk layer for *Freedom's Journal* (1827)–*New National Era* (1874). Private, pre-submission for blind review. | The crosswalk-table concept (Tier 2 of the proposal) is the mechanism that would let AAS-held material get persistent identifiers (LCCN/Wikidata QID) linking it to the same entity graph as the Christian Recorder pipelines above |
+| [`black-press-knowledge-graph`](https://github.com/bfiliks/black-press-knowledge-graph) | The Early Black Press Knowledge Graph (EBP-KG): Linked Data infrastructure proposal, nine-mode metadata failure taxonomy, MARC/crosswalk layer for *Freedom's Journal* (1827)–*New National Era* (1874). Private, pre-submission for blind review. | **Unconfirmed.** *If* AAS material were ever integrated into a knowledge-graph structure, EBP-KG's crosswalk-table concept (Tier 2) is the mechanism that would do it — but this is Felix's own hypothetical, not a stated goal of the AAS collaboration, and shouldn't be raised with John as though it were already agreed. |
 
 **Talking point for the August call with John:** Felix isn't starting from zero — the existing computational pipelines (genre classification, biblical-quotation detection, authorship attribution, serial-fiction tracking) were built on *The Christian Recorder* and could plausibly extend to AAS's periodical/pamphlet/self-publishing holdings. Worth asking John directly whether AAS has machine-readable/OCR'd text for candidate collections, since that determines whether these pipelines are portable as-is.
 
