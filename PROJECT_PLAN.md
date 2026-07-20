@@ -52,6 +52,20 @@ Sources: [Finding Materials for African American Studies](https://www.americanan
 
 ---
 
+## 1b. John J. Garcia — confirmed background (researched 2026-07-19)
+
+**Education:** B.A./M.A., California State University, San Bernardino; Ph.D. in Rhetoric and Critical Theory, UC Berkeley.
+
+**Career:** Assistant professor of English at Florida State University and Cal State Northridge; prior work in the antiquarian book trade (practical bookselling, not just academic); joined AAS April 3, 2023 as Director of Scholarly Programs and Partnerships. Oversees **PHBAC** (Program in the History of the Book in American Culture — runs the Summer Seminar in the History of the Book, §1a above) and **CHAViC** (Center for Historic American Visual Culture). Fellowships from Ford Foundation, AAS, Library Company of Philadelphia, McNeil Center for Early American Studies, NYPL, NEH. Editorial board, *Commonplace: the journal of early American life*. Former president, Andrew W. Mellon Society of Fellows in Critical Bibliography at Rare Book School.
+
+**Research — directly relevant, not just adjacent:**
+
+- **"Critique! Critique! Critique! Black Labor in the Early American Book Trade"** (*Criticism* 64.3, 2022) — documents free and enslaved Black workers in book production (papermaking, transportation, domestic labor supporting white slaveholding libraries) across colonial North America, the Caribbean, and the early US. Argues via Foucault's archival method and Adorno's negative dialectics that bibliography can be reparative political work; explicitly challenges the assumption that "bibliography and book history is a largely white topic."
+- **"Slavery and the Making of the Early American Book"** (talk) — same territory: Black labor in libraries, printing offices, paper mills. The event description ties this explicitly to the approaching 200th anniversary of *Freedom's Journal* (1827) — i.e. **2027**.
+- **"Without Order: Booksellers and the Failures of the Early American Book Trade, 1679–1840"** (2019–20 AAS-NEH Fellowship) — organized around *failure* in the book trade as an analytical category; structurally resonant with EBP-KG's metadata-failure taxonomy, though the failures in question differ (business failure vs. cataloging failure).
+
+**How this reframes the collaboration:** Garcia's work is about who built the physical infrastructure of print (paper, presses, labor); Felix's is about how the resulting press functioned as circulation/institutional infrastructure for Black communities. These are two halves of the same "print as infrastructure" argument, arrived at independently — Garcia is a real theoretical interlocutor here, not just an archive-access contact. His "Critique! Critique! Critique!" essay argues close to the same thing as Ernest, Gallon, and Johnson already cited in `BACKGROUND.md`.
+
 ## 2. Pre-meeting prep (before the Aug 24–28 call)
 
 - [ ] Skim the Black Self-Publishing portal and note 2–3 entries/authors that intersect with Felix's period/geography of interest.
@@ -67,6 +81,7 @@ Sources: [Finding Materials for African American Studies](https://www.americanan
 3. Would the Scholars' Workshop (if recurring) or a short-term fellowship (e.g. Brown Family Collection Fellowship) be the right entry point, versus an informal research visit?
 4. What's the realistic timeline for archive access — remote finding aids first, or does this require an in-person visit to Worcester?
 5. Are there restrictions/embargoes on any of the relevant collections?
+6. Is AAS planning anything for the *Freedom's Journal* bicentennial in 2027? Garcia's own talk on Black labor in the book trade explicitly invoked this anniversary — a concrete, dated hook for a collaboration rather than an open-ended one.
 
 ## 4. Existing related work (this GitHub account)
 
