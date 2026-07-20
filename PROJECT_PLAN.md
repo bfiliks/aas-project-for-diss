@@ -66,12 +66,17 @@ Sources: [Finding Materials for African American Studies](https://www.americanan
 
 **How this reframes the collaboration:** Garcia's work is about who built the physical infrastructure of print (paper, presses, labor); Felix's is about how the resulting press functioned as circulation/institutional infrastructure for Black communities. These are two halves of the same "print as infrastructure" argument, arrived at independently — Garcia is a real theoretical interlocutor here, not just an archive-access contact. His "Critique! Critique! Critique!" essay argues close to the same thing as Ernest, Gallon, and Johnson already cited in `BACKGROUND.md`.
 
+**Read in full 2026-07-19.** Two evidentiary sections: "The Caribbean Reader" (enslaved domestic labor facilitating white reading on Jamaican/Barbadian plantations; enslaved Jamaican pressmen; critiques AAS's own 1983 *Printing and Society in Early America* for excluding the Caribbean) and "Paper Trails" (US archival recovery via financial paperwork — unnamed Black laborers on Philadelphia's 1788 Printer's Float, Mathew Carey's unnamed "resolute negro pressman," runaway Milton MA papermakers Caesar and James Moody, exploitative indenture contracts for Black children and adults). Closes by fusing critical bibliography with Foucault and Adorno's negative dialectics. Full citation added to `BACKGROUND.md` §6 along with three of his own key sources (Best, Dinius, Wingate).
+
+**Concrete AAS-held object to ask about:** *Excursion into the Interior from the Cape of Good Hope* (Jamaica, ca. 1799–1802) — a unique surviving copy, held at AAS, illustrated with the unknown white Jamaican author's own woodcuts depicting an enslaved woman in a scene of colonial reading. This is the object Garcia's own article opens and closes on. Worth asking to see it directly if visiting Worcester.
+
 ## 2. Pre-meeting prep (before the Aug 24–28 call)
 
 - [ ] Skim the Black Self-Publishing portal and note 2–3 entries/authors that intersect with Felix's period/geography of interest.
 - [ ] Browse "Just Teach One: Early African American Print" texts for anything directly relevant.
 - [ ] Draft a 1-paragraph statement of Felix's current dissertation interests, specific enough that John can map it to AAS holdings.
 - [ ] Ask Ryan what specifically he and John discussed in Charlottesville ("the projects you're seeking help on") — the notes reference this but don't specify it.
+- [ ] If visiting Worcester, ask to see *Excursion into the Interior from the Cape of Good Hope* — the AAS-held volume central to Garcia's own scholarship.
 - [ ] Check whether the Scholars' Workshop is running its next cycle and what the actual 2026 deadline is (ask John directly — fastest way to get an accurate date).
 
 ## 3. Questions to bring to the call
